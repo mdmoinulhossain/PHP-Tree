@@ -1,0 +1,12 @@
+[submodule "authentication-php-mysql"]
+	path = authentication-php-mysql
+	url = https://github.com/mdmoinulhossain/authentication-php-mysql.git
+[submodule "php-auth-firebase"]
+	path = php-auth-firebase
+	url = https://github.com/mdmoinulhossain/php-auth-firebase.git
+[submodule "CRUD-PHP-Mysql"]
+	path = CRUD-PHP-Mysql
+	url = https://github.com/mdmoinulhossain/CRUD-PHP-Mysql.git
+[submodule "InterActivity-php-mysql"]
+	path = InterActivity-php-mysql
+	url = https://github.com/mdmoinulhossain/InterActivity-php-mysql.git
