@@ -13,3 +13,6 @@
 [submodule "employee_list"]
 	path = employee_list
 	url = https://gitlab.com/goldeneyes100/employee_list.git
+[submodule "form-submission-PHP-MySQL"]
+	path = form-submission-PHP-MySQL
+	url = https://github.com/mdmoinulhossain/form-submission-PHP-MySQL.git
